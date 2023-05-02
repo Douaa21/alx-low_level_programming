@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * Free (safe version): frees a linked listint_t  list
+ * free_listint_safe - frees a linked listint_t  list
  * @h: pointer to the first node in the linked list
  *
  * Return: the size of the list that was freed
