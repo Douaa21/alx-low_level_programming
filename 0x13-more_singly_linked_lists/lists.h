@@ -5,8 +5,7 @@
 #include <stdlib.h>
 
 /**
- * structure listint_s - singly linked list
- *  integer
+ * lists.h: singly linked list
  *  points to the next node
  * Description: singly linked list node structure
  */
